@@ -45,9 +45,8 @@ plt.axis('off')
 ```
 # Output:
 <img width="908" height="570" alt="image" src="https://github.com/user-attachments/assets/c3202ba7-4526-4d99-bc8b-99f5c52f45ce" />
-<img width="887" height="570" alt="image" src="https://github.com/user-attachments/assets/a8da75a9-
-  1315-496f-9a1e-8a082a1d6fdf" />
-<img width="875" height="557" alt="image" src="https://github.com/user-ttachments/assets/65eff922-8135-405c-ad36-116d657f3bfa" />
+<img width="887" height="570" alt="image" src="https://github.com/user-attachments/assets/a8da75a9-1315-496f-9a1e-8a082a1d6fdf" />
+<img width="875" height="557" alt="image" src="https://github.com/user-attachments/assets/c133616c-53b4-44f7-9445-41eddbf31c2b" />
 <img width="893" height="562" alt="image" src="https://github.com/user-attachments/assets/5cd0aa33-b4a5-429f-8555-0822b2cb7935" />
 
 # Result:
